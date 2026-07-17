@@ -30,6 +30,25 @@ My personal Fedora desktop configuration built around **Niri** and **Noctalia Sh
 
 ---
 
+## System
+
+| Component | Details |
+| --------- | ------- |
+| Laptop | Dell G15 5530 |
+| OS | Fedora Linux 44 |
+| Display Server | Wayland |
+| Window Manager | Niri |
+| Shell | Noctalia Shell v5 |
+| Terminal | Kitty |
+| Terminal Shell | Fish |
+| CPU | Intel Core i5-13450HX |
+| GPU | NVIDIA GeForce RTX 3050 Laptop GPU 6GB |
+| iGPU | Intel Graphics |
+| RAM | 32GB DDR5 |
+| Display | 1920x1080 @ 120Hz |
+
+---
+
 ## Features
 
 * **Niri** — Wayland scrolling/tiling compositor
@@ -39,6 +58,7 @@ My personal Fedora desktop configuration built around **Niri** and **Noctalia Sh
 * **Fastfetch** — system information display
 * **Rofi** — wallpaper selector
 * **Quickshell Wallpaper Picker** — visual wallpaper picker
+* **Matugen** — dynamic color generation
 * Custom wallpapers
 * Custom scripts
 
@@ -76,6 +96,7 @@ fastfetch
 rofi
 swaybg
 imagemagick
+matugen
 ```
 
 Additional packages may be required depending on your distribution.
@@ -115,8 +136,10 @@ Examples include:
 * Avatar image
 * Personal scripts
 * Local cache paths
+* Monitor configuration
+* Hardware-specific settings
 
-This configuration was created and tested on **Fedora** running **Niri** with **Noctalia Shell v5**.
+This configuration was created and tested on **Fedora Linux 44** running **Niri** with **Noctalia Shell v5** on a **Dell G15 5530**.
 
 ---
 
@@ -129,8 +152,6 @@ The wallpaper picker uses **Rofi** together with **ImageMagick** to generate thu
 ```text
 Mod + Y
 ```
-
----
 
 ## Main Keybinds
 
