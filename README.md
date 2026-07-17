@@ -30,25 +30,6 @@ My personal Fedora desktop configuration built around **Niri** and **Noctalia Sh
 
 ---
 
-## System
-
-| Component | Details |
-| --------- | ------- |
-| Laptop | Dell G15 5530 |
-| OS | Fedora Linux 44 |
-| Display Server | Wayland |
-| Window Manager | Niri |
-| Shell | Noctalia Shell v5 |
-| Terminal | Kitty |
-| Terminal Shell | Fish |
-| CPU | Intel Core i5-13450HX |
-| GPU | NVIDIA GeForce RTX 3050 Laptop GPU 6GB |
-| iGPU | Intel Graphics |
-| RAM | 32GB DDR5 |
-| Display | 1920x1080 @ 120Hz |
-
----
-
 ## Features
 
 * **Niri** — Wayland scrolling/tiling compositor
@@ -139,7 +120,7 @@ Examples include:
 * Monitor configuration
 * Hardware-specific settings
 
-This configuration was created and tested on **Fedora Linux 44** running **Niri** with **Noctalia Shell v5** on a **Dell G15 5530**.
+This configuration was created and tested on **Fedora Linux 44** running **Niri** with **Noctalia Shell v5**.
 
 ---
 
