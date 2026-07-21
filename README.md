@@ -1,4 +1,4 @@
-# Fedora Wayland Rice — Niri + Noctalia Shell v5
+# Wayland Rice — Niri + Noctalia Shell v5
 
 My personal Fedora desktop configuration built around **Niri** and **Noctalia Shell v5**.
 
@@ -64,13 +64,12 @@ My personal Fedora desktop configuration built around **Niri** and **Noctalia Sh
 ## Structure
 
 ```text
-fedora-niri-noctalia/
+niri-noctalia-dotfiles/
 ├── fastfetch/
 ├── fish/
 ├── kitty/
 ├── niri/
 ├── noctalia/
-├── qs-wallpaper-picker/
 ├── screenshots/
 ├── scripts/
 ├── wallpapers/
