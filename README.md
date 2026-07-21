@@ -25,7 +25,7 @@ My personal Fedora desktop configuration built around **Niri** and **Noctalia Sh
 ### Wallpaper Selector
 
 <p align="center">
-  <img src="screenshots/wallpaperselector.png" alt="Wallpaper Selector" width="90%">
+  <img src="screenshots/selector.png" alt="Wallpaper Selector" width="90%">
 </p>
 
 ---
