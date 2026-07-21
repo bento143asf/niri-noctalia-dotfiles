@@ -37,7 +37,6 @@ My personal Fedora desktop configuration built around **Niri** and **Noctalia Sh
 * **Kitty** — terminal emulator
 * **Fish** — shell
 * **Fastfetch** — system information display
-* **Rofi** — wallpaper selector
 * **Quickshell Wallpaper Picker** — visual wallpaper picker
 * **Matugen** — dynamic color generation
 * Custom wallpapers
@@ -74,7 +73,6 @@ noctalia-shell
 kitty
 fish
 fastfetch
-rofi
 swaybg
 imagemagick
 matugen
@@ -121,18 +119,6 @@ Examples include:
 * Hardware-specific settings
 
 This configuration was created and tested on **Fedora Linux 44** running **Niri** with **Noctalia Shell v5**.
-
----
-
-## Wallpaper Picker
-
-The wallpaper picker uses **Rofi** together with **ImageMagick** to generate thumbnails.
-
-**Shortcut**
-
-```text
-Mod + Y
-```
 
 ## Main Keybinds
 
