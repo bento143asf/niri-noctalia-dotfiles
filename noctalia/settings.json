@@ -24,7 +24,9 @@
             "com.brave.Browser",
             "org.vinegarhq.Sober",
             "steam",
-            "com.discordapp.Discord"
+            "com.discordapp.Discord",
+            "firefox",
+            "code"
         ],
         "position": "center",
         "screenshotAnnotationTool": "",
@@ -97,14 +99,14 @@
             ],
             "left": [
                 {
-                    "colorizeSystemIcon": "none",
+                    "colorizeSystemIcon": "primary",
                     "colorizeSystemText": "none",
                     "customIconPath": "",
-                    "enableColorization": false,
+                    "enableColorization": true,
                     "icon": "rocket",
                     "iconColor": "none",
                     "id": "Launcher",
-                    "useDistroLogo": false
+                    "useDistroLogo": true
                 },
                 {
                     "characterCount": 2,
@@ -253,7 +255,7 @@
         "manualSunrise": "06:30",
         "manualSunset": "18:30",
         "monitorForColors": "",
-        "predefinedScheme": "Noctalia (default)",
+        "predefinedScheme": "Monochrome",
         "schedulingMode": "off",
         "syncGsettings": true,
         "useWallpaperColors": true
@@ -643,6 +645,216 @@
         "enableMultiMonitorDirectories": false,
         "enabled": true,
         "favorites": [
+            {
+                "appearance": "dark",
+                "colorScheme": "Noctalia (default)",
+                "darkMode": true,
+                "generationMethod": "faithful",
+                "paletteColors": [
+                    "#6796e4",
+                    "#6758da",
+                    "#aa58da",
+                    "#fd4663"
+                ],
+                "path": "/home/lux/Pictures/Wallpapers/MissLookalike.jpg",
+                "useWallpaperColors": true
+            },
+            {
+                "appearance": "dark",
+                "colorScheme": "Monochrome",
+                "darkMode": true,
+                "generationMethod": "monochrome",
+                "paletteColors": [
+                    "#aaaaaa",
+                    "#a7a7a7",
+                    "#cccccc",
+                    "#dddddd"
+                ],
+                "path": "/home/lux/Pictures/Wallpapers/wallhaven_0pl533.jpg",
+                "useWallpaperColors": false
+            },
+            {
+                "appearance": "dark",
+                "colorScheme": "Monochrome",
+                "darkMode": true,
+                "generationMethod": "faithful",
+                "paletteColors": [
+                    "#b6f854",
+                    "#4ff63b",
+                    "#3bf686",
+                    "#fd4663"
+                ],
+                "path": "/home/lux/Pictures/Wallpapers/wallhaven_nrwkxm.jpg",
+                "useWallpaperColors": true
+            },
+            {
+                "appearance": "dark",
+                "colorScheme": "Monochrome",
+                "darkMode": true,
+                "generationMethod": "monochrome",
+                "paletteColors": [
+                    "#ffffff",
+                    "#c6c6c6",
+                    "#e2e2e2",
+                    "#ffb4ab"
+                ],
+                "path": "/home/lux/Pictures/Wallpapers/wallhaven_gw55w7.jpg",
+                "useWallpaperColors": true
+            },
+            {
+                "appearance": "dark",
+                "colorScheme": "Cherry Blossom",
+                "darkMode": true,
+                "generationMethod": "monochrome",
+                "paletteColors": [
+                    "#f2c1d4",
+                    "#ffd6e2",
+                    "#d4a3bd",
+                    "#ec8a92"
+                ],
+                "path": "/home/lux/Pictures/Wallpapers/wallhaven_l3lx7r.jpg",
+                "useWallpaperColors": false
+            },
+            {
+                "appearance": "dark",
+                "colorScheme": "Monochrome",
+                "darkMode": true,
+                "generationMethod": "faithful",
+                "paletteColors": [
+                    "#72a8e7",
+                    "#7672e7",
+                    "#b172e7",
+                    "#fd4663"
+                ],
+                "path": "/home/lux/Pictures/Wallpapers/wallhaven_wy9q7q.jpg",
+                "useWallpaperColors": true
+            },
+            {
+                "appearance": "dark",
+                "colorScheme": "Monochrome",
+                "darkMode": true,
+                "generationMethod": "monochrome",
+                "paletteColors": [
+                    "#ffffff",
+                    "#c6c6c6",
+                    "#e2e2e2",
+                    "#ffb4ab"
+                ],
+                "path": "/home/lux/Pictures/Wallpapers/wallhaven_jx2kvp.jpg",
+                "useWallpaperColors": true
+            },
+            {
+                "appearance": "dark",
+                "colorScheme": "Monochrome",
+                "darkMode": true,
+                "generationMethod": "monochrome",
+                "paletteColors": [
+                    "#aaaaaa",
+                    "#a7a7a7",
+                    "#cccccc",
+                    "#dddddd"
+                ],
+                "path": "/home/lux/Pictures/Wallpapers/wallhaven_qzplm7.jpg",
+                "useWallpaperColors": false
+            },
+            {
+                "appearance": "dark",
+                "colorScheme": "Monochrome",
+                "darkMode": true,
+                "generationMethod": "faithful",
+                "paletteColors": [
+                    "#ee605d",
+                    "#ec9c46",
+                    "#e9ec46",
+                    "#fd4663"
+                ],
+                "path": "/home/lux/Pictures/Wallpapers/wallhaven_497wow.jpg",
+                "useWallpaperColors": true
+            },
+            {
+                "appearance": "dark",
+                "colorScheme": "Monochrome",
+                "darkMode": true,
+                "generationMethod": "faithful",
+                "paletteColors": [
+                    "#a867e4",
+                    "#d65cd2",
+                    "#cc6697",
+                    "#fd4663"
+                ],
+                "path": "/home/lux/Pictures/Wallpapers/lilithRei.jpg",
+                "useWallpaperColors": true
+            },
+            {
+                "appearance": "dark",
+                "colorScheme": "Monochrome",
+                "darkMode": true,
+                "generationMethod": "faithful",
+                "paletteColors": [
+                    "#afc4f1",
+                    "#beb4ec",
+                    "#d8b8e8",
+                    "#fd4663"
+                ],
+                "path": "/home/lux/Pictures/Wallpapers/MoonRei.jpg",
+                "useWallpaperColors": true
+            },
+            {
+                "appearance": "dark",
+                "colorScheme": "Monochrome",
+                "darkMode": true,
+                "generationMethod": "faithful",
+                "paletteColors": [
+                    "#4ddcff",
+                    "#3370ff",
+                    "#5c33ff",
+                    "#fd4663"
+                ],
+                "path": "/home/lux/Pictures/Wallpapers/wallhaven_qdwg8q.jpg",
+                "useWallpaperColors": true
+            },
+            {
+                "appearance": "dark",
+                "colorScheme": "Monochrome",
+                "darkMode": true,
+                "generationMethod": "rainbow",
+                "paletteColors": [
+                    "#84cfff",
+                    "#b6c9d8",
+                    "#ccc0e9",
+                    "#ffb4ab"
+                ],
+                "path": "/home/lux/Pictures/Wallpapers/wallhaven_0p1979.jpg",
+                "useWallpaperColors": true
+            },
+            {
+                "appearance": "dark",
+                "colorScheme": "Monochrome",
+                "darkMode": true,
+                "generationMethod": "faithful",
+                "paletteColors": [
+                    "#f05b68",
+                    "#ee8b44",
+                    "#eee044",
+                    "#ec2e3e"
+                ],
+                "path": "/home/lux/Pictures/Wallpapers/wallhaven_6o2qjw.jpg",
+                "useWallpaperColors": true
+            },
+            {
+                "appearance": "dark",
+                "colorScheme": "Monochrome",
+                "darkMode": true,
+                "generationMethod": "faithful",
+                "paletteColors": [
+                    "#4dc8ff",
+                    "#3356ff",
+                    "#7233ff",
+                    "#fd4663"
+                ],
+                "path": "/home/lux/Pictures/Wallpapers/wallhaven_l372my.jpg",
+                "useWallpaperColors": true
+            }
         ],
         "fillColor": "#000000",
         "fillMode": "crop",
@@ -678,7 +890,7 @@
         "wallhavenCategories": "111",
         "wallhavenOrder": "desc",
         "wallhavenPurity": "100",
-        "wallhavenQuery": "rei ayanami",
+        "wallhavenQuery": "blackhole",
         "wallhavenRatios": "",
         "wallhavenResolutionHeight": "",
         "wallhavenResolutionMode": "atleast",
@@ -687,4 +899,3 @@
         "wallpaperChangeMode": "random"
     }
 }
-
