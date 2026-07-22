@@ -1,6 +1,6 @@
 # Wayland Rice — Niri + Noctalia Shell v5
 
-My personal Fedora desktop configuration built around **Niri** and **Noctalia Shell v5**.
+My personal Arch/Fedora desktop configuration built around **Niri** and **Noctalia Shell v5**.
 
 > **Note**
 >
@@ -100,8 +100,8 @@ Additional packages may be required depending on your distribution.
 Clone the repository:
 
 ```bash
-git clone https://github.com/bento143asf/fedora-niri-noctalia.git
-cd fedora-niri-noctalia
+git clone https://github.com/bento143asf/niri-noctalia-doftiles.git
+cd niri-noctalia-dotfiles
 ```
 
 Copy the configuration files to their respective locations:
@@ -130,7 +130,7 @@ Examples include:
 * Monitor configuration
 * Hardware-specific settings
 
-This configuration was created and tested on **Fedora Linux 44** running **Niri** with **Noctalia Shell v5**.
+This configuration was created and tested on **Arch Linux and Fedora Linux 44** running **Niri** with **Noctalia Shell v5**.
 
 ## Main Keybinds
 
