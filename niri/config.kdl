@@ -41,13 +41,14 @@ layout {
 
     focus-ring {
         width 2.5
-        active-gradient from="#51a2da" to="#845ef7" angle=45
-        inactive-color "#303030"
+        // active-gradient from="#51a2da" to="#845ef7" angle=50
+        active-color "#454343"
+	inactive-color "#303030"
     }
     border {
         off
         width 4
-        active-color "#51a2da"
+        active-color "#454343"
         inactive-color "#505050"
         urgent-color "#9b0000"
     }
@@ -358,6 +359,9 @@ binds {
     Mod+D {
         spawn-sh "qs -c noctalia-shell ipc call launcher toggle"
     }
+    Mod+Y {
+	spawn-sh "qs -c noctalia-shell ipc call wallpaper toggle"
+    }
  
     Mod+Shift+Slash { show-hotkey-overlay; }
 
@@ -365,7 +369,6 @@ binds {
     Mod+Shift+V hotkey-overlay-title="Wipe Clipboard" { spawn "sh" "-c" "~/.local/bin/clip_menu.sh --wipe"; }
     Mod+F11 hotkey-overlay-title="Record Screen" { spawn "sh" "-c" "~/.local/bin/record.sh"; }
     Mod+Tab hotkey-overlay-title="Haku Menu" { spawn "sh" "-c" "~/.local/bin/hakumenu.sh"; }
-    Mod+Y { spawn "~/.local/bin/wallselect.sh"; }    
 
     Mod+Q hotkey-overlay-title="Open a Terminal: kitty" { spawn "kitty"; }
     Mod+E hotkey-overlay-title="Open File Manager: thunar" { spawn "thunar"; }
