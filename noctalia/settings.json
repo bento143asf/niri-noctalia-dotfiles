@@ -90,10 +90,10 @@
                 {
                     "clockColor": "none",
                     "customFont": "",
-                    "formatHorizontal": "HH:mm ddd, MMM dd",
-                    "formatVertical": "HH mm - dd MM",
+                    "formatHorizontal": "HH:mm",
+                    "formatVertical": "HH mm",
                     "id": "Clock",
-                    "tooltipFormat": "HH:mm ddd, MMM dd",
+                    "tooltipFormat": "HH:mm",
                     "useCustomFont": false
                 }
             ],
@@ -721,9 +721,9 @@
                 "darkMode": true,
                 "generationMethod": "faithful",
                 "paletteColors": [
-                    "#72a8e7",
-                    "#7672e7",
-                    "#b172e7",
+                    "#71a7e7",
+                    "#7570e7",
+                    "#b171e6",
                     "#fd4663"
                 ],
                 "path": "/home/lux/Pictures/Wallpapers/wallhaven_wy9q7q.jpg",
@@ -791,9 +791,9 @@
                 "darkMode": true,
                 "generationMethod": "faithful",
                 "paletteColors": [
-                    "#afc4f1",
-                    "#beb4ec",
-                    "#d8b8e8",
+                    "#6796e4",
+                    "#6758da",
+                    "#aa58da",
                     "#fd4663"
                 ],
                 "path": "/home/lux/Pictures/Wallpapers/MoonRei.jpg",
@@ -819,10 +819,10 @@
                 "darkMode": true,
                 "generationMethod": "rainbow",
                 "paletteColors": [
-                    "#84cfff",
-                    "#b6c9d8",
-                    "#ccc0e9",
-                    "#ffb4ab"
+                    "#afc4f1",
+                    "#beb4ec",
+                    "#d8b8e8",
+                    "#fd4663"
                 ],
                 "path": "/home/lux/Pictures/Wallpapers/wallhaven_0p1979.jpg",
                 "useWallpaperColors": true
@@ -847,10 +847,10 @@
                 "darkMode": true,
                 "generationMethod": "faithful",
                 "paletteColors": [
-                    "#4dc8ff",
-                    "#3356ff",
-                    "#7233ff",
-                    "#fd4663"
+                    "#4ec8ff",
+                    "#3457fe",
+                    "#7334fe",
+                    "#fd4763"
                 ],
                 "path": "/home/lux/Pictures/Wallpapers/wallhaven_l372my.jpg",
                 "useWallpaperColors": true
