@@ -10,22 +10,28 @@ My personal Arch/Fedora desktop configuration built around **Niri** and **Noctal
 
 ## Screenshots
 
-### Fedora desktop
+### Fedora Desktop
 
 <p align="center">
   <img src="screenshots/larp.png" alt="Desktop" width="90%">
 </p>
 
-### Arch desktop
+### Arch Desktop
 
 <p align="center">
   <img src="screenshots/archdesktop.png" alt="Desktop" width="90%">
 </p>
 
-### Main Interface
+### Fedora Main Interface
 
 <p align="center">
   <img src="screenshots/maininterface.png" alt="Main Interface" width="90%">
+</p>
+
+### Arch Main Interface
+
+<p align="center">
+  <img src="screenshots/archmain.png" alt="Desktop" width="90%">
 </p>
 
 ### Wallpaper Selector
